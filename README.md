@@ -10,7 +10,7 @@ Analyzed Airbnb listings in Seattle, WA to see trends in seasonality, popular lo
 ## 🔑 Highlights
 - Data import, cleaning & removing unnecessary columns  
 - Interactive visualizations for clear insights  
-- Dashboard designed for clarity and actionable insights  
+- Dashboard designed for clarity and decision making
 
 
 
