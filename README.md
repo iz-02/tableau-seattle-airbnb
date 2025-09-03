@@ -2,15 +2,17 @@
 
 Analyzed Airbnb listings in Seattle, WA to see trends in seasonality, popular locations, and property types.
 
+## 💡 Key Findings
+- 1-bedroom Airbnbs are the most popular property type by far  
+- Summer is the most expensive season for Airbnb listings  
+- Certain neighborhoods consistently have higher priced listings  
+
 ## 🔑 Highlights
 - Data import, cleaning & removing unnecessary columns  
 - Interactive visualizations for clear insights  
 - Dashboard designed for clarity and actionable insights  
 
-## 💡 Key Findings
-- 1-bedroom Airbnbs are the most popular property type by far  
-- Summer is the most expensive season for Airbnb listings  
-- Certain neighborhoods consistently have higher priced listings  
+
 
 ## 📂 Files
 - [View Tableau Dashboard Online](https://public.tableau.com/app/profile/izzat.shuhratov/viz/AirBnBFullProject_17566649471650/Dashboard1) – full dashboard
