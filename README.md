@@ -1,6 +1,6 @@
 # 📊 Seattle Airbnb Dashboard (Tableau)
 
-Analyzed  Airbnb listings in Seattle, WA to see trends in seasonality, popular locations, and property types.
+Analyzed Airbnb listings in Seattle, WA to see trends in seasonality, popular locations, and property types.
 
 ## 🔑 Highlights
 - Data import, cleaning & deleting unnecessary columns  
