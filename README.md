@@ -3,10 +3,10 @@
 Analyzed Airbnb listings in Seattle, WA to see trends in seasonality, popular locations, and property types.
 
 ## 🔑 Highlights
-- Data import, cleaning & deleting unnecessary columns  
-- Interactive, simple visualizations  
-- Insights on peak seasons, expensive locations, and popular property types
-- Dashboard designed for clarity and actionable insights  
+- Data import, cleaning & removing unnecessary columns  
+- Interactive visualizations for clear insights  
+- Key findings on peak seasons, expensive locations, and popular property types  
+- Dashboard made for clarity and actionable insights  
 
 ## 📂 Files
 
